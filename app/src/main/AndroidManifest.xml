@@ -26,22 +26,22 @@
         </activity>
         <activity
             android:name=".surfaceview.SurfaceCameraActivity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="landscape"/>
         <activity
             android:name=".textureview.TextureCameraActivity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="landscape"/>
         <activity
             android:name=".glsurfaceview.GLSurfaceCameraActivity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="landscape"/>
         <activity
             android:name=".surfaceview.SurfaceCamera2Activity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="landscape"/>
         <activity
             android:name=".textureview.TextureCamera2Activity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="landscape"/>
         <activity
             android:name=".glsurfaceview.GLSurfaceCamera2Activity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="landscape"/>
     </application>
 
 </manifest>
